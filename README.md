@@ -7,15 +7,15 @@ Stay updated with our WhatsApp channel:
 [![WhatsApp Channel](https://files.catbox.moe/zb8axp.png)](https://whatsapp.com/channel/0029Vb04Mrx1Hspr17OD8x0p)
 
 ---
-🌟🪔🚀
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ---
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ## Quick Start
 
 ### 1. Fork This Repository  
 Click the button below to fork the repository and start customizing:  
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](h)
+[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](https://github.com/bmbtz/B.M.B-MD)
 
 ---
 
@@ -25,19 +25,19 @@ Easily manage your session ID with a single click:
 [![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-pair-qz1x.onrender.com)
 
 ---
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ### 3. Scan QR Code  
 Use the QR Code below for seamless authentication:  
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 [![Scan QR Code](https://img.shields.io/badge/QR%20Code-Scan-orange?style=for-the-badge)](#)
 
 ---
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 ### 4. Deploy to Heroku  
 Deploy the bot effortlessly using the provided template:  
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 [![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/bmbttz/B.M.B-MD)  
-
+🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 If you don't have a Heroku account, click here to create one:  
 [![Create Heroku Account](https://img.shields.io/badge/Create-Heroku%20Account-red?style=for-the-badge)](https://signup.heroku.com/)
 
