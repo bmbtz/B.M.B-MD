@@ -1,6 +1,4 @@
-`DON'T FORK THIS REPO`
-   🙏 MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B 🌟 
-
+  🙏 MR-B.M.B 𝕄𝔻 𝕄𝔸𝔻𝔼 𝔹𝕐 B.M.B 🌟 
 [![B.M.B-MD Logo](https:https://files.catbox.moe/24a6kt.jpg)](https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=𝑻𝑯𝑰𝑺+𝐈𝐒+B.M.B-𝐌𝐃+𝑴𝑨𝑫𝑬+𝑩𝒀+B.M.B+🇹🇿" alt="Typing SVG" /></a>
@@ -59,4 +57,4 @@ For any issues or to stay updated, use the options below:
 [![Follow My GitHub](https://img.shields.io/static/v1?label=Follow%20My%20GitHub&message=GitHub&color=181717&style=for-the-badge&logo=github&logoColor=white)](https://github.com/kinghanstz)  
 
 
-## ⭐ thanks for your choosing HANS-MD🙏
+## ⭐ thanks for your choosing B.M.B-MD🙏
