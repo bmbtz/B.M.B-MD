@@ -15,7 +15,7 @@ Stay updated with our WhatsApp channel:
 ### 1. Fork This Repository  
 Click the button below to fork the repository and start customizing:  
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](https://github.com/bmbttz/B.M.B-MD)
+[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge)](h)
 
 ---
 
