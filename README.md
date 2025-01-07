@@ -47,7 +47,7 @@ Use the QR Code below for seamless authentication:
 ### 4. Deploy to Heroku  
 Deploy the bot effortlessly using the provided template:  
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)](https://heroku.com/deploy?template=https://github.com/bmbttz/B.M.B-MD)  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy-Heroku-purple?style=for-the-badge)]()  
 🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔🪔
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 If you don't have a Heroku account, click here to create one:  
