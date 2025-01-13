@@ -1,24 +1,26 @@
-
  {
-  "name": "babyfx",
+  "name": "bmb",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node index.js",
+    "s": "node index.js", 
+    "start": "npx pm2 start index.js --attach",
     "zokou": "pm2 start index.js --attach --max-memory-restart 490M",
+    "lucky": "pm2 start index.js --attach",
     "c": "tsc"
     },
   "keywords": [
     "bot",
     "Baileys",
-    "Alpha-Md",
+    "bmb-Md",
     "whatsapp",
     "whatsapp-bot",
-    "keithkeizzah"
+    "bmb"
    ],
-  "author": "keithkeizzah",
+  "author": "bmb",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
