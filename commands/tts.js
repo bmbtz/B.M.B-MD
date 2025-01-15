@@ -32,7 +32,7 @@ zokou( {
       async(dest,zk, commandeOptions)=> {
  
 const {ms,arg,repondre} = commandeOptions;
-      if (!arg[0]) {repondre("Insert a word");return} ;
+      if (!arg[0]) {repondre("nana");return} ;
  const mots = arg.join(" ")
 
 const url = googleTTS.getAudioUrl( mots, {
