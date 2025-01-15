@@ -20,7 +20,7 @@ Click the button below to fork the repository and start customizing:
 ### 2. Generate Session ID  
 Easily manage your session ID with a single click:  
 
-[![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://b-m-b-session-id-pair-qz1x.onrender.com)
+[![Get Session ID](https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=white)](https://bmb-tech-scan-e30bcb8bd096.herokuapp.com)
 
 ---
 ### 3. Scan QR Code  
