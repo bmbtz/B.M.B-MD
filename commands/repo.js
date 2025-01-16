@@ -37,15 +37,15 @@ const date = moment().format('DD/MM/YYYY');
       *B.M.B MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
->https://github.com/bmbtz/B.M.B-MD.git
+>https://github.com/bmbttz/B.M.B_TECH.git
 
 *WHATSAPP GROUP*
 > https://chat.whatsapp.com/GSwWooIVuAa3VZg095sTux
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV1* : *Mr b.m.b tech*
-│❒⁠⁠⁠⁠ *DEV2* : *Mr b.m.b md*
+│❒⁠⁠⁠⁠ *DEV1* : *Mr B.M.B TECH*
+│❒⁠⁠⁠⁠ *DEV2* : *Mr B.M.B MD*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
