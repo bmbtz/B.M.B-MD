@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
  *Tap on the link to get session*
   
- https://b.m.b-tech.vercel.app
+ https://bmb-tech-scan-e30bcb8bd096.herokuapp.com
  
  
  *STEPS TO GET SESSION*
@@ -49,7 +49,7 @@ const date = moment().format('DD/MM/YYYY');
  5. It will load for sometime then Ibrahim tech will sent A long session to your inbox on whatsapp at your own number
  6. Copy that long session and sent it to your deployer.
  
- 🚘🚘🚘
+ 🚀🇹🇿🇹🇿😎
  `;
     
 let menuMsg = `
